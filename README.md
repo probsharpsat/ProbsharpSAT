@@ -7,7 +7,7 @@ The static binary of ProbsharpSAT and MIS is given in bin directory.
 ## Running ProbsharpSAT
 You can run ProbsharpSAT by using 'probsharpsat.py' Python script present in bin directory. A simple invocation looks as follows:
 ```bash
-python3 probsharpsat.py -maxcachesize 2000 <cnffile>
+python3 probsharpsat.py <cnffile>
 ```
 
 The usage instructions and default values to arguments can be found by running:
